@@ -21,8 +21,8 @@ Voxy is a HTTP-based volumetric video streaming framework, with MPEG V-PCC suppo
 
 `git clone https://github.com/VOXYproject/voxy.git`
 
-## Data Model
-### Raw Metadata
+## Config
+### Basic Config
 Example:
 ```json
 {
