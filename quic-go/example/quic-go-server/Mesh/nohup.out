@@ -1,0 +1,3537 @@
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 8mbit
+    Upload:   10mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 33mbit
+    Upload:   42mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 36mbit
+    Upload:   46mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 39mbit
+    Upload:   49mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   60mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   65mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 44mbit
+    Upload:   56mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 39mbit
+    Upload:   49mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   51mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   50mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 38mbit
+    Upload:   48mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   66mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 36mbit
+    Upload:   46mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 33mbit
+    Upload:   42mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 45mbit
+    Upload:   57mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 47mbit
+    Upload:   59mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 38mbit
+    Upload:   48mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   50mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 37mbit
+    Upload:   47mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 37mbit
+    Upload:   47mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 56mbit
+    Upload:   71mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 42mbit
+    Upload:   53mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 36mbit
+    Upload:   45mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 47mbit
+    Upload:   59mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 54mbit
+    Upload:   68mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 15mbit
+    Upload:   19mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 46mbit
+    Upload:   58mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 51mbit
+    Upload:   64mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 50mbit
+    Upload:   63mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 50mbit
+    Upload:   63mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 44mbit
+    Upload:   55mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   50mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 53mbit
+    Upload:   67mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   66mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   51mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   30mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   51mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 53mbit
+    Upload:   67mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 39mbit
+    Upload:   49mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 33mbit
+    Upload:   42mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   51mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 8mbit
+    Upload:   10mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 11mbit
+    Upload:   14mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 15mbit
+    Upload:   19mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 44mbit
+    Upload:   55mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   65mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 41mbit
+    Upload:   52mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 44mbit
+    Upload:   56mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 15mbit
+    Upload:   19mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 14mbit
+    Upload:   18mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 10mbit
+    Upload:   13mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 13mbit
+    Upload:   17mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   25mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 9mbit
+    Upload:   12mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   51mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 31mbit
+    Upload:   39mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 34mbit
+    Upload:   43mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   35mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 32mbit
+    Upload:   41mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 26mbit
+    Upload:   33mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 32mbit
+    Upload:   40mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 42mbit
+    Upload:   53mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 37mbit
+    Upload:   47mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 38mbit
+    Upload:   48mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 39mbit
+    Upload:   49mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   50mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   36mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 38mbit
+    Upload:   48mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 38mbit
+    Upload:   48mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   31mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 37mbit
+    Upload:   47mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 11mbit
+    Upload:   14mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 11mbit
+    Upload:   14mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 8mbit
+    Upload:   10mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 8mbit
+    Upload:   11mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 34mbit
+    Upload:   43mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   25mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 14mbit
+    Upload:   18mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 13mbit
+    Upload:   17mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 29mbit
+    Upload:   37mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 12mbit
+    Upload:   16mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 10mbit
+    Upload:   13mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 37mbit
+    Upload:   47mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 11mbit
+    Upload:   14mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   31mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 38mbit
+    Upload:   48mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 29mbit
+    Upload:   37mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   35mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   30mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   35mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   30mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 29mbit
+    Upload:   37mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 37mbit
+    Upload:   47mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   30mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   30mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 47mbit
+    Upload:   59mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   65mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   66mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 26mbit
+    Upload:   33mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   31mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 33mbit
+    Upload:   42mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   65mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 35mbit
+    Upload:   44mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 32mbit
+    Upload:   40mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   35mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 35mbit
+    Upload:   44mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   65mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 50mbit
+    Upload:   63mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 41mbit
+    Upload:   52mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 35mbit
+    Upload:   44mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 50mbit
+    Upload:   63mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   65mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 34mbit
+    Upload:   43mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 51mbit
+    Upload:   64mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 32mbit
+    Upload:   40mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   65mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 47mbit
+    Upload:   59mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 26mbit
+    Upload:   33mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 23mbit
+    Upload:   29mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   65mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 50mbit
+    Upload:   63mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   65mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 35mbit
+    Upload:   44mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 47mbit
+    Upload:   59mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 51mbit
+    Upload:   64mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 36mbit
+    Upload:   45mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   60mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   66mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   30mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   50mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 32mbit
+    Upload:   41mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 47mbit
+    Upload:   59mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 34mbit
+    Upload:   43mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 44mbit
+    Upload:   56mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 46mbit
+    Upload:   58mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 45mbit
+    Upload:   57mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 47mbit
+    Upload:   59mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 29mbit
+    Upload:   37mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 44mbit
+    Upload:   56mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 46mbit
+    Upload:   58mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 47mbit
+    Upload:   59mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 38mbit
+    Upload:   48mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 42mbit
+    Upload:   53mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 47mbit
+    Upload:   59mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 46mbit
+    Upload:   58mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 34mbit
+    Upload:   43mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 45mbit
+    Upload:   57mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 46mbit
+    Upload:   58mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 23mbit
+    Upload:   29mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 29mbit
+    Upload:   37mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   31mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   25mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 23mbit
+    Upload:   29mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   25mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 36mbit
+    Upload:   46mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 29mbit
+    Upload:   37mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 38mbit
+    Upload:   48mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 36mbit
+    Upload:   45mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 39mbit
+    Upload:   49mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 35mbit
+    Upload:   44mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   25mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 15mbit
+    Upload:   19mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 14mbit
+    Upload:   18mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 10mbit
+    Upload:   13mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 15mbit
+    Upload:   19mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   25mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 9mbit
+    Upload:   12mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 11mbit
+    Upload:   14mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   35mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 15mbit
+    Upload:   19mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 13mbit
+    Upload:   17mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 23mbit
+    Upload:   29mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 14mbit
+    Upload:   18mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 13mbit
+    Upload:   17mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 14mbit
+    Upload:   18mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 14mbit
+    Upload:   18mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 12mbit
+    Upload:   15mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   25mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 8mbit
+    Upload:   10mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   36mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 14mbit
+    Upload:   18mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 8mbit
+    Upload:   11mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 15mbit
+    Upload:   19mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 15mbit
+    Upload:   19mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   20mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 12mbit
+    Upload:   16mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 12mbit
+    Upload:   15mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 13mbit
+    Upload:   17mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 15mbit
+    Upload:   19mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 10mbit
+    Upload:   13mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 12mbit
+    Upload:   15mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 8mbit
+    Upload:   10mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 12mbit
+    Upload:   15mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 11mbit
+    Upload:   14mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 31mbit
+    Upload:   39mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 34mbit
+    Upload:   43mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   51mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 34mbit
+    Upload:   43mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 50mbit
+    Upload:   63mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 39mbit
+    Upload:   49mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 35mbit
+    Upload:   44mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 35mbit
+    Upload:   44mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   25mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 23mbit
+    Upload:   29mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   36mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 14mbit
+    Upload:   18mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 12mbit
+    Upload:   16mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 36mbit
+    Upload:   45mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   36mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 41mbit
+    Upload:   52mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   50mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 33mbit
+    Upload:   42mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 44mbit
+    Upload:   56mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 45mbit
+    Upload:   57mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 31mbit
+    Upload:   39mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   60mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 51mbit
+    Upload:   64mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   66mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 31mbit
+    Upload:   39mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 44mbit
+    Upload:   56mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   60mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 49mbit
+    Upload:   62mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 18mbit
+    Upload:   23mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 46mbit
+    Upload:   58mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   60mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 45mbit
+    Upload:   57mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   35mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 2mbit
+    Upload:   3mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 32mbit
+    Upload:   40mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 41mbit
+    Upload:   52mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 35mbit
+    Upload:   44mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 19mbit
+    Upload:   24mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   25mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 42mbit
+    Upload:   53mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 51mbit
+    Upload:   64mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 47mbit
+    Upload:   59mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   61mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 52mbit
+    Upload:   66mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   60mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 39mbit
+    Upload:   49mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 26mbit
+    Upload:   33mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 40mbit
+    Upload:   50mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   60mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   60mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 31mbit
+    Upload:   39mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 17mbit
+    Upload:   22mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 48mbit
+    Upload:   60mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 50mbit
+    Upload:   63mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   25mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   30mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 16mbit
+    Upload:   21mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 10mbit
+    Upload:   13mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 8mbit
+    Upload:   10mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   30mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   36mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 32mbit
+    Upload:   41mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 31mbit
+    Upload:   39mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 29mbit
+    Upload:   37mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30mbit
+    Upload:   38mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   30mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 32mbit
+    Upload:   41mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 31mbit
+    Upload:   39mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 31mbit
+    Upload:   39mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 26mbit
+    Upload:   33mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 31mbit
+    Upload:   39mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   31mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 28mbit
+    Upload:   36mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 27mbit
+    Upload:   34mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 22mbit
+    Upload:   28mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21mbit
+    Upload:   27mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 23mbit
+    Upload:   29mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24mbit
+    Upload:   31mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 20mbit
+    Upload:   26mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 26mbit
+    Upload:   33mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 25mbit
+    Upload:   32mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 26mbit
+    Upload:   33mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 45mbit
+    Upload:   57mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 39mbit
+    Upload:   49mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 26mbit
+    Upload:   33mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 50mbit
+    Upload:   63mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 51mbit
+    Upload:   64mbit
+    RTT:      0ms
+    Loss:     0%
+# github.com/lucas-clemente/quic-go/internal/qtls
+../../../internal/qtls/go118.go:5:13: cannot use "quic-go doesn't build on Go 1.18 yet." (untyped string constant) as int value in variable declaration
+Removing all traffic shaping

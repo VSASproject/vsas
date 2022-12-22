@@ -1,0 +1,165 @@
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 5.0mbit
+    Upload:   5.0mbit
+    RTT:      0ms
+    Loss:     0%
+2022/09/22 15:38:24 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+Server: Got 'frames_Ply'
+file size is  2100 <nil>
+2100
+stream closed
+Manifest Decoding Suceeded
+file size is  17216785 <nil>
+17216785
+stream closed
+file size is  17447639 <nil>
+signal: interrupt
+Traceback (most recent call last):
+  File "/home/ubuntu/quic-go-server-master/example/volo_streamer/ply_server_testing.py", line 18, in <module>
+    subprocess.call("go run ply_testing_server.go", shell=True)
+  File "/usr/lib/python3.10/subprocess.py", line 347, in call
+    return p.wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1204, in wait
+    return self._wait(timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1938, in _wait
+    (pid, sts) = self._try_wait(0)
+  File "/usr/lib/python3.10/subprocess.py", line 1896, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+KeyboardInterrupt
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 5.0mbit
+    Upload:   5.0mbit
+    RTT:      0ms
+    Loss:     0%
+2022/09/22 15:39:46 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+Server: Got 'frames_Ply'
+file size is  2100 <nil>
+2100
+stream closed
+Manifest Decoding Suceeded
+file size is  17216785 <nil>
+17216785
+stream closed
+file size is  17447639 <nil>
+17447639
+stream closed
+file size is  17628566 <nil>
+17628566
+stream closed
+file size is  17874292 <nil>
+17874292
+stream closed
+file size is  18131211 <nil>
+18131211
+stream closed
+file size is  18138647 <nil>
+18138647
+stream closed
+file size is  18152615 <nil>
+18152615
+stream closed
+file size is  18127835 <nil>
+18127835
+stream closed
+file size is  18024903 <nil>
+18024903
+stream closed
+file size is  18042567 <nil>
+18042567
+stream closed
+file size is  18092077 <nil>
+18092077
+stream closed
+file size is  18029831 <nil>
+18029831
+stream closed
+file size is  17925356 <nil>
+17925356
+stream closed
+file size is  17952111 <nil>
+17952111
+stream closed
+file size is  18034147 <nil>
+18034147
+stream closed
+file size is  18075389 <nil>
+18075389
+stream closed
+file size is  17998530 <nil>
+17998530
+stream closed
+file size is  18050788 <nil>
+18050788
+stream closed
+file size is  18048903 <nil>
+18048903
+stream closed
+file size is  18127190 <nil>
+18127190
+stream closed
+file size is  18157269 <nil>
+18157269
+stream closed
+file size is  17984599 <nil>
+17984599
+stream closed
+file size is  17861950 <nil>
+17861950
+stream closed
+file size is  17724476 <nil>
+17724476
+stream closed
+file size is  17565149 <nil>
+timeout: no recent network activity
+panic: timeout: no recent network activity
+
+goroutine 1 [running]:
+main.serveOne({0x7f5da0901150, 0xc00000c1e0}, {0x6c086e, 0x0}, {0xc00001a780, 0x1})
+	/home/ubuntu/quic-go-server-master/example/volo_streamer/ply_testing_server.go:97 +0x249
+main.dashServer()
+	/home/ubuntu/quic-go-server-master/example/volo_streamer/ply_testing_server.go:153 +0x4b7
+main.main()
+	/home/ubuntu/quic-go-server-master/example/volo_streamer/ply_testing_server.go:52 +0x19
+exit status 2
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 14.0mbit
+    Upload:   14.0mbit
+    RTT:      0ms
+    Loss:     0%
+2022/09/22 15:52:29 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+signal: killed
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 21.0mbit
+    Upload:   21.0mbit
+    RTT:      0ms
+    Loss:     0%
+2022/09/23 02:59:55 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+signal: killed
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 23.0mbit
+    Upload:   23.0mbit
+    RTT:      0ms
+    Loss:     0%
+2022/09/23 03:00:22 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+signal: terminated
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 24.5mbit
+    Upload:   24.5mbit
+    RTT:      0ms
+    Loss:     0%
+2022/09/23 03:02:44 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+signal: terminated
+Setting shaping on 1 interfaces
+Interface eth0:
+    Download: 30.0mbit
+    Upload:   30.0mbit
+    RTT:      0ms
+    Loss:     0%
+2022/09/23 03:03:11 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/lucas-clemente/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+Killed
