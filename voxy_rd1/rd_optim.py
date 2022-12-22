@@ -33,4 +33,4 @@ def rd_problem(bw):
 
 if __name__=="__main__":
     #demo()
-    rd_problem(40000)
+    rd_problem(30000)
