@@ -3,4 +3,4 @@
 	url = git@github.com:MPEGGroup/mpeg-pcc-tmc2.git
 [submodule "pensieve"]
 	path = pensieve
-	url = git@github.com:hongzimao/pensieve.git
+	url = https://github.com/hongzimao/pensieve.git
