@@ -1,0 +1,6 @@
+[submodule "pensieve"]
+	path = pensieve
+	url = https://github.com/hongzimao/pensieve.git
+[submodule "mpeg-pcc-tmc2"]
+	path = mpeg-pcc-tmc2
+	url = https://github.com/MPEGGroup/mpeg-pcc-tmc2.git
