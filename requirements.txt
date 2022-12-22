@@ -2,3 +2,4 @@ scikit-learn~=1.2.0
 pandas~=1.5.2
 matplotlib~=3.6.2
 tensorflow~=1.17.0
+cvxpy~=1.2.2
