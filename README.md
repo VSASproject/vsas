@@ -19,7 +19,7 @@ Voxy is a HTTP-based volumetric video streaming framework, with MPEG V-PCC suppo
 + pip packages: `requirements.txt`
 ### Install
 
-`git clone https://github.com/VOXYproject/voxy.git`
+`git clone --recursive https://github.com/VOXYproject/voxy.git`
 
 ## Config
 ### Basic Config
