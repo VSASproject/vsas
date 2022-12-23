@@ -7,104 +7,109 @@
 #We here implement it with a adajacent matrix representation of graph,
 #and reference the code of open-source Dijestra, so this software follows GPL Lisense.
 
+import heapq
+
 class Graph():
 	def __init__(self, vertices):
+		self.K = 1
 		self.V = vertices
 		self.graph = [[0 for column in range(vertices)]
 					for row in range(vertices)]
-		self.c = [0 for column in range(vertices)]
-		self.g = [0 for column in range(vertices)]
+		self.cost_graph = [[0 for column in range(vertices)]
+					  for row in range(vertices)]
+		self.bandwidth_limit = 0
+		self.lambda_order = 2
+		self.path = [0 for column in range(vertices)]
 		self.r = [0 for column in range(vertices)]
-		self.cs = [[0 for column in range(vertices)]
-					for row in range(vertices)]
+		self.R = [0 for column in range(vertices)]
+		self.pi_r = [0 for column in range(vertices)]
+		self.pi_g = [0 for column in range(vertices)]
+		self.g = [0 for column in range(vertices)]
 		self.G = [0 for column in range(vertices)]
-		self.dist = [1e7] * self.V
-		self.dist[0] = 0
-		self.sptSet = [False] * self.V
+		self.c = [0 for column in range(vertices)]
 
 
+	def h_mcop(self, src, dest):
+		dist = self.reverse_dijkstra(dest)
+		if self.r[src] > self.K:
+			return -1
+		self.look_ahead_dijkstra(src)
+		if self.G[dest] <= self.bandwidth_limit:
+			return self.path
+		return -1
 
-	def printSolution(self, dist):
-		print("Vertex \t Distance from Source")
-		for node in range(self.V):
-			print(node, "\t\t", dist[node])
 
-
-	def minDistance(self, dist, sptSet):
-		min = 1e7
-		for v in range(self.V):
-			if dist[v] < min and sptSet[v] == False:
-				min = dist[v]
-				min_index = v
-		return min_index
-
-	def tri(self):
-		return 1
-
-	def max_tri(self):
-		K=5
-		return K
-
-	def l_a(self):
+	def reverse_dijkstra(self,dest):
+		unvisited_queue = [(self.graph[v][dest], v) for v in range(0, 9)]
+		visited = [0 for column in range(self.V)]
+		heapq.heapify(unvisited_queue)
+		while len(unvisited_queue):
+			uv = heapq.heappop(unvisited_queue)
+			current = uv[1]
+			# set visited
+			for v in range(self.V):
+				if visited[v] == 1:
+					continue
+				elif self.graph[v][current] > 0:
+					self.reverse_dijkstra_relax(current, v)
 		return 0
+
+
+	def reverse_dijkstra_relax(self,u,v):
+		limit = (self.R[v] + self.cost_graph[u][v])/self.bandwidth_limit
+		if self.r[u] > limit:
+			self.r[u] = limit
+			self.R[u] = self.R[v] + self.cost_graph[u][v]
+			self.pi_r[v] = u
+		return
+
+
+	def look_ahead_dijkstra(self,s):
+		unvisited_queue = [(self.graph[s][v],v) for v in range(0,9)]
+		visited = [0 for column in range(self.V)]
+		heapq.heapify(unvisited_queue)
+		while len(unvisited_queue):
+			uv = heapq.heappop(unvisited_queue)
+			current = uv[1]
+			#set visited
+			for v in range(self.V):
+				if visited[v] == 1:
+					continue
+				elif self.graph[current][v] > 0:
+					self.look_ahead_dijkstra_relax(current,v)
+		return 0
+
 
 	#The key step of the MCOP algoritm
 	def look_ahead_dijkstra_relax(self,u,v):
-		K=5
 		tmp = 0
-		self.c[tmp] = self.c[u] + self.cs(u,v)
-		lamda = self.l_a()
-		if lamda < 10000:
-			g[tmp] = self.tri()
-		if lamda == 10000:
-			g[tmp] = self.max_tri()
-		for k in range(K):
-			g[tmp] = g[u] + self.graph[u][v]
-			self.r[tmp] = self.r[v]
-		if self.prefer_the_best(tmp,v) == tmp:
+		self.c[tmp] = self.c[u] + self.graph[u][v]
+		self.g[tmp] = (self.G[u] + self.cost_graph[u][v] + self.R[v])/self.bandwidth_limit
+		self.G[tmp] = self.G[u] + self.cost_graph[u][v]
+		self.R[tmp] = self.R[v]
+		if (self.prefer_the_best(tmp,v) == tmp):
 			self.c[v] = self.c[tmp]
 			self.g[v] = self.g[tmp]
-			for i in range(K):
-				self.G[v] = self.G[tmp]
-
-
+			self.G[v] = self.G[tmp]
+			self.pi_g[v] = u
 		return
 
-	def reverse_dijkstra_relax(self,u,v):
-		if (self.graph[u][v] > 0 and
-				self.sptSet[v] == False and
-				self.dist[v] > self.dist[u] + self.graph[u][v]):
-			self.dist[v] = self.dist[u] + self.graph[u][v]
-		return
 
-	def prefer_the_best(self,a,b):
-		for k in range(self.V):
-			if self.c[a] < self.c[b] and self.g[a] + self.r[a] < self.cs[k]:
-				return a
-			if self.c[a] > self.c[b] and self.g[a] + self.r[a] < self.cs[k]:
-				return b
-		if g[a] < g[b]:
+	def prefer_the_best(self, a, b):
+		if self.c[a] < self.c[b] and self.G[a] + self.R[a] < self.bandwidth_limit:
+			return a
+		if self.c[a] > self.c[b] and self.G[a] + self.R[a] < self.bandwidth_limit:
+			return b
+		if self.g[a] < self.g[b]:
 			return a
 		return b
 
-	def check_feasible(self,src):
-		return True
 
-	def reverse_dijkstra(self,K):
-		return 0
 
-	def look_ahead_dijkstra(self,K):
-		return 0
 
-	def h_mcop(self, src):
-		K = 5
-		dist = self.reverse_dijkstra(K)
-		if dist[src] > K:
-			return -1
-		dist = self.look_ahead_dijkstra(0)
-		if self.check_feasible(src):
-			return dist
-		return -1
+
+
+
 
 
 
@@ -120,5 +125,16 @@ if __name__=="__main__":
 			[8, 11, 0, 0, 0, 0, 1, 0, 7],
 			[0, 0, 2, 0, 0, 0, 6, 7, 0]
 			]
-	g.h_mcop(0)
+	g.cost_graph = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
+			[4, 0, 8, 0, 0, 0, 0, 11, 0],
+			[0, 8, 0, 7, 0, 4, 0, 0, 2],
+			[0, 0, 7, 0, 9, 14, 0, 0, 0],
+			[0, 0, 0, 9, 0, 10, 0, 0, 0],
+			[0, 0, 4, 14, 10, 0, 2, 0, 0],
+			[0, 0, 0, 0, 0, 2, 0, 1, 6],
+			[8, 11, 0, 0, 0, 0, 1, 0, 7],
+			[0, 0, 2, 0, 0, 0, 6, 7, 0]
+			]
+	g.bandwidth_limit = 10000
+	g.h_mcop(0,5)
 

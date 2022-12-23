@@ -8,10 +8,14 @@
 
 
 import cvxpy as cvx
-from rd_fit_mod import aqp_br_model,aqp_psnr_model,gqp_psnr_model,gqp_br_model
+from rd_fit_mod import aqp_br_model,aqp_psnr_model,gqp_psnr_model,aqp_br_model_old,gqp_br_model
 
 #find the best qp that maximize the PSNR while
 #below the bandwidth limits bw.
+#We will first recover the r-d model using cvx Variables and Parameters
+#Using the parameters fitted from rd_fit_mod module
+
+
 def rd_problem(bw):
     #quantization paramter
     qp = cvx.Variable()
@@ -22,12 +26,12 @@ def rd_problem(bw):
     obj = cvx.Minimize(qp)
 
     #constraints
-    cts = [qp>=1, qp<=25, aqp_br_model(qp) <= bw]
+    cts = [qp>=1, qp<=25, aqp_br_model_old(qp) <= bw]
 
     prob = cvx.Problem(obj, cts)
     prob.solve()
 
-    print(aqp_psnr_model(qp.value))
+    #print(aqp_psnr_model(qp.value))
     print(qp.value, dr.value)
     #return qp.value, dr.value
 

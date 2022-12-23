@@ -5,7 +5,7 @@
 #While when running independantly, it trains on the given dataset, updating
 #The model
 
-from numpy import sin
+from numpy import exp
 from numpy import arange
 from pandas import read_csv
 from scipy.optimize import curve_fit
@@ -24,8 +24,13 @@ def setup_plt():
 def aqp_psnr_model():
 	#def objective(x, a, b, c, d):
 	#	return a * sin(b - x) + c * x ** 2 + d
-	def objective(x, a, b, c, d):
-		return a*x + b*x + c * x ** 2 + d
+	# def objective(x, a, b, c, d):
+	# 	kappa=1000
+	# 	ans = a*x+ c * x ** 2 + d*exp(-(x-b)**2)
+	# 	return ans
+	def objective(x, a, b, c, d, a1, b1, c1):
+		kappa = 1000
+		return a*x + b*x + c * x ** 2 + d + a1*exp(-((kappa*x-b1/c1))**2)
 
 	#url = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/longley.csv'
 	data_root = "data"
@@ -40,14 +45,14 @@ def aqp_psnr_model():
 
 	popt, _ = curve_fit(objective, x, y)
 
-	a, b, c, d = popt
+	a, b, c, d, a1, b1, c1 = popt
 	print(popt)
 
 	setup_plt()
 	plt.scatter(x, y, linewidths=10)
 
 	x_line = arange(min(x), max(x), 1)
-	y_line = objective(x_line, a, b, c, d)
+	y_line = objective(x_line, a, b, c, d, a1, b1, c1)
 
 	plt.tick_params(pad=18,labelsize=fsize-2)
 	plt.xlabel("Attribute QP", fontsize=fsize)
@@ -60,8 +65,9 @@ def aqp_psnr_model():
 def gqp_psnr_model():
 	#def objective(x, a, b, c, d):
 	#	return a * sin(b - x) + c * x ** 2 + d
-	def objective(x, a, b, c, d):
-		return a*x + b*x + c * x ** 2 + d
+	def objective(x, a, b, c, d, a1, b1, c1):
+		kappa = 1000
+		return a * x + b * x + c * x ** 2 + d + a1 * exp(-((kappa * x - b1 / c1)) ** 2)
 
 	#url = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/longley.csv'
 	data_root = "data"
@@ -76,14 +82,14 @@ def gqp_psnr_model():
 
 	popt, _ = curve_fit(objective, x, y)
 
-	a, b, c, d = popt
+	a, b, c, d, a1, b1, c1 = popt
 	print(popt)
 
 	setup_plt()
 	plt.scatter(x, y, linewidths=10)
 
 	x_line = arange(min(x), max(x), 1)
-	y_line = objective(x_line, a, b, c, d)
+	y_line = objective(x_line, a, b, c, d, a1, b1, c1)
 
 	plt.tick_params(pad=18,labelsize=fsize-2)
 	plt.xlabel("Geometry QP", fontsize=fsize)
@@ -97,8 +103,9 @@ def gqp_psnr_model():
 def aqp_br_model():
 	#def objective(x, a, b, c, d):
 	#	return a * sin(b - x) + c * x ** 2 + d
-	def objective(x, a, b, c, d):
-		return a*x + b*x + c * x ** 2 + d
+	def objective(x, a, b, c, d, a1, b1, c1):
+		kappa = 1000
+		return a * x + b * x + c * x ** 2 + d + a1 * exp(-((kappa * x - b1 / c1)) ** 2)
 
 	#url = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/longley.csv'
 	data_root = "data"
@@ -113,14 +120,14 @@ def aqp_br_model():
 
 	popt, _ = curve_fit(objective, x, y)
 
-	a, b, c, d = popt
+	a, b, c, d, a1, b1, c1 = popt
 	print(popt)
 
 	setup_plt()
 	plt.scatter(x, y, linewidths=10)
 
 	x_line = arange(min(x), max(x), 1)
-	y_line = objective(x_line, a, b, c, d)
+	y_line = objective(x_line, a, b, c, d, a1, b1, c1)
 
 	plt.tick_params(pad=18,labelsize=fsize-2)
 	plt.xlabel("Attribute QP", fontsize=fsize)
@@ -133,8 +140,9 @@ def aqp_br_model():
 def gqp_br_model():
 	#def objective(x, a, b, c, d):
 	#	return a * sin(b - x) + c * x ** 2 + d
-	def objective(x, a, b, c, d):
-		return a*x + b*x + c * x ** 2 + d
+	def objective(x, a, b, c, d, a1, b1, c1):
+		kappa = 1000
+		return a * x + b * x + c * x ** 2 + d + a1 * exp(-((kappa * x - b1 / c1)) ** 2)
 
 	#url = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/longley.csv'
 	data_root = "data"
@@ -149,14 +157,14 @@ def gqp_br_model():
 
 	popt, _ = curve_fit(objective, x, y)
 
-	a, b, c, d = popt
+	a, b, c, d, a1, b1, c1 = popt
 	print(popt)
 
 	setup_plt()
 	plt.scatter(x, y, linewidths=10)
 
 	x_line = arange(min(x), max(x), 1)
-	y_line = objective(x_line, a, b, c, d)
+	y_line = objective(x_line, a, b, c, d, a1, b1, c1)
 
 	plt.tick_params(pad=18,labelsize=fsize-2)
 	plt.xlabel("Geometry QP", fontsize=fsize)
