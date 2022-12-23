@@ -51,6 +51,5 @@ Voxy is a HTTP-based volumetric video streaming framework, with MPEG V-PCC suppo
 {"nal_no": 1002, "filename": "G100oi_1002", "type": -1}, 
 {"nal_no": 1002, "filename": "G101ai_1002", "type": -1}, 
 {"nal_no": 1002, "filename": "G101gi_1002", "type": -1},
-......
 ]
 ```
