@@ -35,6 +35,22 @@ Voxy is a HTTP-based volumetric video streaming framework, with MPEG V-PCC suppo
     "filename": "G100ai_1000", 
     "type": -1
 },
-{"nal_no": 1000, "filename": "G100gi_1000", "type": -1}, {"nal_no": 1000, "filename": "G100oi_1000", "type": -1}, {"nal_no": 1000, "filename": "G101ai_1000", "type": -1}, {"nal_no": 1000, "filename": "G101gi_1000", "type": -1}, {"nal_no": 1000, "filename": "G101oi_1000", "type": -1}, {"nal_no": 1001, "filename": "G100ai_1001", "type": -1}, {"nal_no": 1001, "filename": "G100gi_1001", "type": -1}, {"nal_no": 1001, "filename": "G100oi_1001", "type": -1}, {"nal_no": 1001, "filename": "G101ai_1001", "type": -1}, {"nal_no": 1001, "filename": "G101gi_1001", "type": -1}, {"nal_no": 1001, "filename": "G101oi_1001", "type": -1}, {"nal_no": 1002, "filename": "G100ai_1002", "type": -1}, {"nal_no": 1002, "filename": "G100gi_1002", "type": -1}, {"nal_no": 1002, "filename": "G100oi_1002", "type": -1}, {"nal_no": 1002, "filename": "G101ai_1002", "type": -1}, {"nal_no": 1002, "filename": "G101gi_1002", "type": -1},
+{"nal_no": 1000, "filename": "G100gi_1000", "type": -1}, 
+{"nal_no": 1000, "filename": "G100oi_1000", "type": -1}, 
+{"nal_no": 1000, "filename": "G101ai_1000", "type": -1}, 
+{"nal_no": 1000, "filename": "G101gi_1000", "type": -1}, 
+{"nal_no": 1000, "filename": "G101oi_1000", "type": -1}, 
+{"nal_no": 1001, "filename": "G100ai_1001", "type": -1}, 
+{"nal_no": 1001, "filename": "G100gi_1001", "type": -1}, 
+{"nal_no": 1001, "filename": "G100oi_1001", "type": -1}, 
+{"nal_no": 1001, "filename": "G101ai_1001", "type": -1}, 
+{"nal_no": 1001, "filename": "G101gi_1001", "type": -1}, 
+{"nal_no": 1001, "filename": "G101oi_1001", "type": -1}, 
+{"nal_no": 1002, "filename": "G100ai_1002", "type": -1}, 
+{"nal_no": 1002, "filename": "G100gi_1002", "type": -1}, 
+{"nal_no": 1002, "filename": "G100oi_1002", "type": -1}, 
+{"nal_no": 1002, "filename": "G101ai_1002", "type": -1}, 
+{"nal_no": 1002, "filename": "G101gi_1002", "type": -1},
+......
 ]
 ```
