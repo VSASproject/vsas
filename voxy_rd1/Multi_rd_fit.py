@@ -23,8 +23,8 @@ def setup_plt():
 
 def aqp_psnr_model():
 	def objective(x, a, b, c, d, a1, b1, c1):
-		kappa = 1000
-		return a * x + b * x + c * x ** 2 + d + a1 * exp(-((kappa * x - b1 / c1)) ** 2)
+		kappa = 1
+		return a * exp(-((kappa * x - b) / c) ** 2) + d * exp(-((kappa * x - a1) / b1) ** 2) + c1
 	x_line = []
 	y_line = []
 	setup_plt()
@@ -39,7 +39,8 @@ def aqp_psnr_model():
 		dataframe = read_csv(log_path)
 		data = dataframe.values
 		x, y = data[:, 0], data[:, -1]
-		popt, _ = curve_fit(objective, x, y)
+		p0 = (30, -5.699, 14.54, 41.71, 3.612, 80.83, 0)
+		popt, _ = curve_fit(objective, x, y, p0, maxfev=500000)
 		a, b, c, d, a1, b1, c1 = popt
 		plt.scatter(x, y, linewidths=10, color=colors[counter],
 					#marker=ticks[counter]
@@ -61,8 +62,8 @@ def aqp_psnr_model():
 
 def gqp_psnr_model():
 	def objective(x, a, b, c, d, a1, b1, c1):
-		kappa = 1000
-		return a * x + b * x + c * x ** 2 + d + a1 * exp(-((kappa * x - b1 / c1)) ** 2)
+		kappa = 1
+		return a * exp(-((kappa * x - b) / c) ** 2) + d * exp(-((kappa * x - a1) / b1) ** 2) + c1
 	x_line = []
 	y_line = []
 	setup_plt()
@@ -77,7 +78,8 @@ def gqp_psnr_model():
 		dataframe = read_csv(log_path)
 		data = dataframe.values
 		x, y = data[:, 0], data[:, -1]
-		popt, _ = curve_fit(objective, x, y)
+		p0 = (30, -5.699, 14.54, 41.71, 3.612, 80.83, 0)
+		popt, _ = curve_fit(objective, x, y, p0, maxfev=500000)
 		a, b, c, d, a1, b1, c1 = popt
 		plt.scatter(x, y, linewidths=10, color=colors[counter])
 		x_line.append(arange(min(x), max(x), 1))
@@ -98,8 +100,8 @@ def gqp_psnr_model():
 
 def aqp_br_model():
 	def objective(x, a, b, c, d, a1, b1, c1):
-		kappa = 1000
-		return a * x + b * x + c * x ** 2 + d + a1 * exp(-((kappa * x - b1 / c1)) ** 2)
+		kappa = 1
+		return a * exp(-((kappa * x - b) / c) ** 2) + d * exp(-((kappa * x - a1) / b1) ** 2) + c1
 	x_line = []
 	y_line = []
 	setup_plt()
@@ -114,7 +116,8 @@ def aqp_br_model():
 		dataframe = read_csv(log_path)
 		data = dataframe.values
 		x, y = data[:, 0], data[:, -1]
-		popt, _ = curve_fit(objective, x, y)
+		p0 = (30, -5.699, 14.54, 41.71, 3.612, 80.83, 0)
+		popt, _ = curve_fit(objective, x, y, p0, maxfev=500000)
 		a, b, c, d, a1, b1, c1 = popt
 		plt.scatter(x, y, linewidths=10, color=colors[counter],
 					#marker=ticks[counter]
