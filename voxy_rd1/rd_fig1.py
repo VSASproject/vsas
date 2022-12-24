@@ -122,7 +122,7 @@ def aqp_psnr_model():
 	ax.set_xlabel("Attribute QP", fontsize=fsize)
 	ax.set_ylabel("Attribute PSNR", fontsize=fsize)
 	plt.legend(fontsize=fsize)
-	plt.savefig("figures/fig_1.eps")
+	plt.savefig("figures/fig_1.png")
 	plt.show()
 
 
