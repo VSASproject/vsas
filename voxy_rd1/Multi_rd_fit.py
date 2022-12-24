@@ -4,7 +4,7 @@
 #When called from the rd_optim, it read the paraemter from cache.csv cache file
 #While when running independantly, it trains on the given dataset, updating
 #The model
-
+from numpy import exp
 from numpy import sin
 from numpy import arange
 from pandas import read_csv
@@ -22,8 +22,9 @@ def setup_plt():
 
 
 def aqp_psnr_model():
-	def objective(x, a, b, c, d):
-		return a*x + b*x + c * x ** 2 + d
+	def objective(x, a, b, c, d, a1, b1, c1):
+		kappa = 1000
+		return a * x + b * x + c * x ** 2 + d + a1 * exp(-((kappa * x - b1 / c1)) ** 2)
 	x_line = []
 	y_line = []
 	setup_plt()
@@ -39,12 +40,12 @@ def aqp_psnr_model():
 		data = dataframe.values
 		x, y = data[:, 0], data[:, -1]
 		popt, _ = curve_fit(objective, x, y)
-		a, b, c, d = popt
+		a, b, c, d, a1, b1, c1 = popt
 		plt.scatter(x, y, linewidths=10, color=colors[counter],
 					#marker=ticks[counter]
 					)
 		x_line.append(arange(min(x), max(x), 1))
-		y_line.append(objective(x_line[-1], a, b, c, d))
+		y_line.append(objective(x_line[-1], a, b, c, d, a1, b1, c1))
 		counter += 1
 
 	plt.tick_params(pad=18,labelsize=fsize-2)
@@ -59,8 +60,9 @@ def aqp_psnr_model():
 	plt.show()
 
 def gqp_psnr_model():
-	def objective(x, a, b, c, d):
-		return a*x + b*x + c * x ** 2 + d
+	def objective(x, a, b, c, d, a1, b1, c1):
+		kappa = 1000
+		return a * x + b * x + c * x ** 2 + d + a1 * exp(-((kappa * x - b1 / c1)) ** 2)
 	x_line = []
 	y_line = []
 	setup_plt()
@@ -76,10 +78,10 @@ def gqp_psnr_model():
 		data = dataframe.values
 		x, y = data[:, 0], data[:, -1]
 		popt, _ = curve_fit(objective, x, y)
-		a, b, c, d = popt
+		a, b, c, d, a1, b1, c1 = popt
 		plt.scatter(x, y, linewidths=10, color=colors[counter])
 		x_line.append(arange(min(x), max(x), 1))
-		y_line.append(objective(x_line[-1], a, b, c, d))
+		y_line.append(objective(x_line[-1], a, b, c, d, a1, b1, c1))
 		counter += 1
 
 	plt.tick_params(pad=18,labelsize=fsize-2)
@@ -95,8 +97,9 @@ def gqp_psnr_model():
 
 
 def aqp_br_model():
-	def objective(x, a, b, c, d):
-		return a*x + b*x + c * x ** 2 + d
+	def objective(x, a, b, c, d, a1, b1, c1):
+		kappa = 1000
+		return a * x + b * x + c * x ** 2 + d + a1 * exp(-((kappa * x - b1 / c1)) ** 2)
 	x_line = []
 	y_line = []
 	setup_plt()
@@ -112,12 +115,12 @@ def aqp_br_model():
 		data = dataframe.values
 		x, y = data[:, 0], data[:, -1]
 		popt, _ = curve_fit(objective, x, y)
-		a, b, c, d = popt
+		a, b, c, d, a1, b1, c1 = popt
 		plt.scatter(x, y, linewidths=10, color=colors[counter],
 					#marker=ticks[counter]
 					)
 		x_line.append(arange(min(x), max(x), 1))
-		y_line.append(objective(x_line[-1], a, b, c, d))
+		y_line.append(objective(x_line[-1], a, b, c, d, a1, b1, c1))
 		counter += 1
 
 	plt.tick_params(pad=18,labelsize=fsize-2)
