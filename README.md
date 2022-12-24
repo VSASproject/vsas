@@ -13,8 +13,8 @@ Voxy is a HTTP-based volumetric video streaming framework, with MPEG V-PCC suppo
 ## Drawing Pipeline
 1. Rename `stall_timing.log` and drag it into `VV-Video_trace_handling/stall_timing_logs/`, run `log_extracation.py` to extract log information. After this step, run `PSNR_Script.py`, `QoE.py`, `Real_time.py`, `Stall_timing_bar.py` and `VPCC_Drop_No_Drop_Compare.py` to get network transmission figures in the paper. (Shown in directory `VV-Video_trace_handling/Output/`)
 2. To get mpeg/PSNR figures in the paper, run `nohup python mpeg_script.py` as steps in Setup Pipeline part. Rename `nohup.out` and drag it into `PSNR/nohup_records/`. the corresponding `cache/S15.ply` to `cache/S35.ply` files (`cache is record of mpeg_script.py`) can be put in Directories inside `Ply` (Optional).
-3. Run `PSNR/extract_br.py` and `PSNR/General_PSNR.py` to extract csv files (`PSNR/Output/*.csv`) from logs.
-4. Move all csv files in `PSNR/Output/` to `voxy_rd1/data/`, run `voxy_rd1/Multi_rd_fit.py ` and `voxy_rd1/rd_fig1.py`.
+3. Run `PSNR/extract_br.py` to extract csv files (`PSNR/Output/*.csv`) from logs.
+4. Move all csv files in `PSNR/Output/` to `voxy_rd1/data/`, run `voxy_rd1/Multi_rd_fit.py `.
 5. Now, all output pictures in step 4. can be checked in `voxy_rd1/figures/`
 
 ## Explain:
