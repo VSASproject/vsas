@@ -139,4 +139,3 @@ if __name__=="__main__":
 	aqp_psnr_model()
 	gqp_psnr_model()
 	aqp_br_model()
-	#gqp_br_model("soldier.csv")
