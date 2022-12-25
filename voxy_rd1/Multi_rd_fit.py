@@ -46,7 +46,7 @@ def aqp_psnr_model():
 		plt.scatter(x, y, linewidths=10, color=colors[counter],
 					#marker=ticks[counter]
 					)
-		x_line.append(arange(min(x), max(x), 1))
+		x_line.append(arange(min(x), max(x)+1, 1))
 		y_line.append(objective(x_line[-1], a, b, c, d, a1, b1, c1))
 		counter += 1
 
@@ -83,7 +83,7 @@ def gqp_psnr_model():
 		popt, _ = curve_fit(objective, x, y, p0, maxfev=500000)
 		a, b, c, d, a1, b1, c1 = popt
 		plt.scatter(x, y, linewidths=10, color=colors[counter])
-		x_line.append(arange(min(x), max(x), 1))
+		x_line.append(arange(min(x), max(x)+1, 1))
 		y_line.append(objective(x_line[-1], a, b, c, d, a1, b1, c1))
 		counter += 1
 
@@ -123,13 +123,13 @@ def aqp_br_model():
 		plt.scatter(x, y, linewidths=10, color=colors[counter],
 					#marker=ticks[counter]
 					)
-		x_line.append(arange(min(x), max(x), 1))
+		x_line.append(arange(min(x), max(x)+1, 1))
 		y_line.append(objective(x_line[-1], a, b, c, d, a1, b1, c1))
 		counter += 1
 
 	plt.tick_params(pad=18,labelsize=fsize-2)
 	plt.xlabel("Attribute QP", fontsize=fsize)
-	plt.ylabel("BR", fontsize=fsize)
+	plt.ylabel("Bitrate", fontsize=fsize)
 	plt.plot(x_line[0], y_line[0], '--', label="Longdress sequence", color='red', linewidth=5, alpha=0.6)
 	plt.plot(x_line[1], y_line[1], '-', label="Loot sequence", color='green', linewidth=5, alpha=0.6)
 	plt.plot(x_line[2], y_line[2], '--', label="Red and Black sequence", color='blue', linewidth=5, alpha=0.6)
